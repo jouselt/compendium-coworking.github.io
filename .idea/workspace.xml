@@ -2,175 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46975cbf-edf8-49c0-825d-39064c769b13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/404-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/404.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/aboutus/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/aboutus/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/aboutus/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/aboutus/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/aboutus/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/aboutus/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/aboutus/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/aboutus/left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/aboutus/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/blog-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/masonary/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/masonary/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/masonary/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/masonary/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/masonary/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/masonary/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/masonary/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/masonary/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/masonary/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/masonary/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/timeline/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/timeline/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/timeline/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/timeline/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/timeline/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/timeline/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/timeline/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/timeline/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blog/timeline/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blogdetails/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blogdetails/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blogdetails/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/blogdetails/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/coming-soon-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/coming-soon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/coming-soon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/coming-soon3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/coming-soon4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/contact-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/activeicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/client1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/client2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/client3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/client4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/client5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/client6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/clients.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/cycle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/footer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/icon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/icon3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/image1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/image2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/image3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/profile1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/profile2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/slider-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/slider/birds1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/slider/birds2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/slider/hill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/slider/house.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/slider/sun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/tour-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/tour-icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/tour-icon2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/home/under.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/ico/apple-touch-icon-114-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/ico/apple-touch-icon-144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/ico/apple-touch-icon-57-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/ico/apple-touch-icon-72-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/ico/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/icon-map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/lightbox/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/lightbox/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/lightbox/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/lightbox/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio-details/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/popular1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/popular2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/popular3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/popular4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/popular5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/project1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/project2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/project3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/portfolio/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/services/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/services/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/services/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/services/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/+about-us/about-us.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/+about-us/about-us.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/+about-us/index.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/+about-us/shared/index.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/+home/home.component.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vendor/theme/css/animate.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vendor/theme/css/lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vendor/theme/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vendor/theme/css/prettyPhoto.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/vendor/theme/css/responsive.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/+contact-us/contact-us.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/+contact-us/contact-us.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/+contact-us/contact-us.component.spec.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/+home/home.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/+home/home.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/+home/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/+home/index.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/coworking.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/coworking.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/coworking.component.spec.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/header/header.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/header/header.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/header/header.component.spec.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/system-config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/system-config.js.map" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/app/+home/home.component.css" afterPath="$PROJECT_DIR$/src/app/+about-us/about-us.component.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/app/+home/home.component.spec.ts" afterPath="$PROJECT_DIR$/src/app/+about-us/about-us.component.spec.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-cli-build.js" afterPath="$PROJECT_DIR$/angular-cli-build.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/+home/home.component.html" afterPath="$PROJECT_DIR$/src/app/+home/home.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/+home/home.component.ts" afterPath="$PROJECT_DIR$/src/app/+home/home.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/coworking.component.html" afterPath="$PROJECT_DIR$/src/app/coworking.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/coworking.component.ts" afterPath="$PROJECT_DIR$/src/app/coworking.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/header/header.component.html" afterPath="$PROJECT_DIR$/src/app/header/header.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/system-config.ts" afterPath="$PROJECT_DIR$/src/system-config.ts" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compendium-coworking.github.io.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="compendium-coworking.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -192,7 +29,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home.component.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/+home/home.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="603">
@@ -200,6 +37,16 @@
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -432,7 +279,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12369000" />
+    <option name="totallyTimeSpent" value="12440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="6" />
@@ -440,16 +287,16 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21353066" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32971507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32341" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49932158" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -610,13 +457,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/coworking.component.js" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/+home/home.component.js" />
     <entry file="file://$PROJECT_DIR$/tslint.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -845,7 +685,7 @@
         <state relative-caret-position="275">
           <caret line="120" column="0" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
           <folding>
-            <element signature="e#1631#1720#2" expanded="true" />
+            <element signature="e#1631#1720#2" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -857,6 +697,14 @@
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
