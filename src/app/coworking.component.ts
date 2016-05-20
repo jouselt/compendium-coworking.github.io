@@ -2,6 +2,7 @@ import {Component} from '@angular/core';
 import {ContactUsComponent} from './+contact-us';
 import {Router, Routes, ROUTER_DIRECTIVES, ROUTER_PROVIDERS} from '@angular/router';
 import {HomeComponent} from './+home';
+import {AboutUsComponent} from './+about-us';
 
 import {HeaderComponent} from './header';
 
@@ -15,7 +16,8 @@ import {HeaderComponent} from './header';
 })
 @Routes([
   {path: '/contact-us', component: ContactUsComponent},
-  {path: '/home', component: HomeComponent}
+  {path: '/home', component: HomeComponent},
+  {path: '/about-us', component: AboutUsComponent}
 ])
 export class CoworkingAppComponent {
   title = 'coworking works!';
