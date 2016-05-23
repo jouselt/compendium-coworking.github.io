@@ -4,7 +4,7 @@
       <div class="col-sm-12 overflow">
         <div class="social-icons pull-right">
           <ul class="nav nav-pills">
-            <li><a href=""><i class="fa fa-facebook"></i></a></li>
+            <li><a href="https://www.facebook.com/coworkingbycompendium"><i class="fa fa-facebook"></i></a></li>
           </ul>
         </div>
       </div>
@@ -20,7 +20,7 @@
           <span class="icon-bar"></span>
         </button>
 
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" [routerLink]="['']">
           <h1><img src="images/logo.svg" alt="logo"></h1>
         </a>
 
@@ -28,29 +28,31 @@
 
       <div class="collapse navbar-collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li class="active">
-            <a [routerLink]="['/home']">Inicio</a>
-          </li>
+
           <li>
-            <a [routerLink]="['/contact-us']">Contactenos</a>
+            <a [routerLink]="['']">Inicio </a>{{title}}
           </li>
-          <li>
-            <a [routerLink]="['/about-us']">Sobre Nosotros</a>
-          </li>
-          <!--<li class="dropdown"><a href="#">Pages <i class="fa fa-angle-down"></i></a>
+
+
+          <li class="dropdown">
+            <a [routerLink]="['./sobre-nosotros/quienes-somos']">Sobre Nosotros <i class="fa fa-angle-down"></i></a>
             <ul role="menu" class="sub-menu">
-
-
-              <li><a href="aboutus.html">About</a></li>
-              <li><a href="aboutus2.html">About 2</a></li>
-              <li><a href="service.html">Services</a></li>
-              <li><a href="pricing.html">Pricing</a></li>
-              <li><a href="contact.html">Contact us</a></li>
-              <li><a href="contact2.html">Contact us 2</a></li>
-              <li><a href="404.html">404 error</a></li>
-              <li><a href="coming-soon.html">Coming Soon</a></li>
+              <li><a [routerLink]="['./sobre-nosotros/quienes-somos']">Quienes Somos</a></li>
+              <li><a [routerLink]="['./sobre-nosotros/beneficios']">Beneficios</a></li>
+              <li><a [routerLink]="['./sobre-nosotros/testimonios']">Testimonios</a></li>
             </ul>
-          </li>-->
+          </li>
+
+          <li>
+            <a [routerLink]="['./nuestros-servicios']">Servicios</a>
+          </li>
+          <li>
+            <a [routerLink]="['./contactenos']">Contactenos</a>
+          </li>
+          <li>
+            <a [routerLink]="['./el-espacios']">El Espacio</a>
+          </li>
+
         </ul>
       </div>
       <div class="search">

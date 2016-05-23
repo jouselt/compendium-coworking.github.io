@@ -1,16 +1,18 @@
 import {Component, OnInit} from '@angular/core';
-import {AlertComponent} from 'ng2-bootstrap/ng2-bootstrap'
+import {ROUTER_DIRECTIVES} from '@angular/router';
 
 import 'jQuery';
+import 'wowjs';
 
+// This declarations are to make use of the libraries.
 declare var jQuery:any;
+declare var WOW:any;
 
-// import 'bootstrap';
 @Component({
   moduleId: module.id,
   selector: 'app-home',
+  directives: [ROUTER_DIRECTIVES],
   templateUrl: 'home.component.html',
-  directives: [AlertComponent],
   styleUrls: ['home.component.css']
 })
 export class HomeComponent implements OnInit {
@@ -24,25 +26,7 @@ export class HomeComponent implements OnInit {
     jQuery('.preloader').remove();
     //End Preloader
 
-    var jQueryportfolio_selectors = jQuery('.portfolio-filter >li>a');
-
-    if (jQueryportfolio_selectors.length) {
-
-      var jQueryportfolio = jQuery('.portfolio-items');
-      jQueryportfolio.isotope({
-        itemSelector: '.portfolio-item',
-        layoutMode: 'fitRows'
-      });
-
-      jQueryportfolio_selectors.on('click', function () {
-        jQueryportfolio_selectors.removeClass('active');
-        jQuery(this).addClass('active');
-        var selector = jQuery(this).attr('data-filter');
-        jQueryportfolio.isotope({filter: selector});
-        return false;
-      });
-    }
-
+    new WOW().init();
   }
 
 }

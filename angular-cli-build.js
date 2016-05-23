@@ -16,7 +16,8 @@ module.exports = function(defaults) {
       'ng2-bootstrap/components/**/*.+(js|js.map)',
       'moment/moment.js',
       'jquery/dist/jquery.js',
-      'bootstrap/dist/css/bootstrap.min.+(css|css.map)',
+      'wowjs/dist/wow.min.js',
+      'bootstrap/dist/**/bootstrap.min.+(js|css|css.map)',
       'font-awesome/css/font-awesome.min.css',
       'font-awesome/fonts/*.+(otf|eot|svg|ttf|woff|woff2)'
     ]

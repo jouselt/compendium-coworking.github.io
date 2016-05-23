@@ -3,15 +3,22 @@
  **********************************************************************************************/
 /** Map relative paths to URLs. */
 const map:any = {
-  'bootstrap': 'vendor/bootstrap/dist/css/bootstrap.css',
+  'bootstrap': 'vendor/bootstrap/dist/js/bootstrap.min.js',
   'moment': 'vendor/moment/moment.js',
   'ng2-bootstrap': 'vendor/ng2-bootstrap',
-  'jQuery': 'vendor/jquery/dist/jquery.js'
+  'jQuery': 'vendor/jquery/dist/jquery.js',
+  'wowjs': 'vendor/wowjs/dist/wow.min.js'
 };
 
 /** User packages configuration. */
 const packages:any = {
   'vendor/ng2-bootstrap': {
+    defaultExtension: 'js'
+  },
+  'vendor/bootstrap': {
+    defaultExtension: 'js'
+  },
+  'vendor/wow': {
     defaultExtension: 'js'
   },
   'vendor/jQuery': {
@@ -30,6 +37,7 @@ const barrels:string[] = [
   '@angular/compiler',
   '@angular/http',
   '@angular/router',
+  '@angular/router-deprecated',
   '@angular/platform-browser',
   '@angular/platform-browser-dynamic',
 
@@ -43,6 +51,12 @@ const barrels:string[] = [
   'app/+home',
   'app/header',
   'app/+about-us',
+  'app/footer',
+  'app/+services',
+  'app/+our-space',
+  'app/+about-us/+who-are-we',
+  'app/+about-us/+testimonies',
+  'app/+about-us/+benefits',
   /** @cli-barrel */
 ];
 
