@@ -7,12 +7,16 @@ const map:any = {
   'moment': 'vendor/moment/moment.js',
   'ng2-bootstrap': 'vendor/ng2-bootstrap',
   'jQuery': 'vendor/jquery/dist/jquery.js',
-  'wowjs': 'vendor/wowjs/dist/wow.min.js'
+  'wowjs': 'vendor/wowjs/dist/wow.min.js',
+  'gmaps': 'vendor/theme/js/gmaps.js'
 };
 
 /** User packages configuration. */
 const packages:any = {
   'vendor/ng2-bootstrap': {
+    defaultExtension: 'js'
+  },
+  'vendor/gmaps': {
     defaultExtension: 'js'
   },
   'vendor/bootstrap': {
