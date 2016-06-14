@@ -1,5 +1,6 @@
 import {Component, OnInit} from '@angular/core';
-import {Routes, ROUTER_PROVIDERS, ROUTER_DIRECTIVES } from '@angular/router';
+import {Routes, ROUTER_DIRECTIVES } from '@angular/router';
+import { HTTP_PROVIDERS } from '@angular/http';
 
 import {ContactUsComponent} from './+contact-us';
 import {HomeComponent} from './+home';
@@ -17,8 +18,10 @@ import 'bootstrap';
   selector: 'coworking-app',
   templateUrl: 'coworking.component.html',
   styleUrls: ['coworking.component.css'],
-  directives: [HeaderComponent, FooterComponent, ROUTER_DIRECTIVES]
+  directives: [HeaderComponent, FooterComponent, ROUTER_DIRECTIVES],
+  providers: [HTTP_PROVIDERS]
 })
+
 @Routes([
   {path: '', component: HomeComponent},
   {path: '/contactenos', component: ContactUsComponent},
@@ -26,11 +29,14 @@ import 'bootstrap';
   {path: '/nuestros-servicios', component: ServicesComponent},
   {path: '/el-espacio', component: OurSpaceComponent}
 ])
-export class CoworkingAppComponent implements OnInit {
+export class CoworkingAppComponent implements OnInit{
+
   title = 'coworking works!';
 
   constructor() {
   }
+
+
 
   ngOnInit() {
     // this.router.

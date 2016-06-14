@@ -61,6 +61,7 @@ const barrels:string[] = [
   'app/+about-us/+who-are-we',
   'app/+about-us/+testimonies',
   'app/+about-us/+benefits',
+  'app/shared/contact-form',
   /** @cli-barrel */
 ];
 

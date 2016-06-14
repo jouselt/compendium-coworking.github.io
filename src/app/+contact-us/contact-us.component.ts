@@ -1,6 +1,13 @@
 import {Component, OnInit} from '@angular/core';
 
+import {OnActivate} from '@angular/router';
+import {ContactFormComponent} from '../shared/contact-form';
+
+import 'jQuery';
 import 'gmaps';
+
+// This declarations are to make use of the libraries.
+declare var jQuery:any;
 declare var GMaps:any;
 declare var google:any;
 
@@ -8,9 +15,11 @@ declare var google:any;
   moduleId: module.id,
   selector: 'app-contact-us',
   templateUrl: 'contact-us.component.html',
-  styleUrls: ['contact-us.component.css']
+  styleUrls: ['contact-us.component.css'],
+  directives: [ContactFormComponent]
 })
-export class ContactUsComponent implements OnInit {
+export class ContactUsComponent implements OnInit, OnActivate {
+
 
   constructor() {
   }
@@ -18,7 +27,6 @@ export class ContactUsComponent implements OnInit {
   ngOnInit() {
 
     var map;
-
     map = new GMaps({
       el: '#gmap',
       lat: -0.1808688,
@@ -45,4 +53,7 @@ export class ContactUsComponent implements OnInit {
 
   }
 
+  routerOnActivate():void {
+    jQuery('body').scrollTop(0);
+  }
 }
