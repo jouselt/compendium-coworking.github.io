@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {Routes, ROUTER_DIRECTIVES} from '@angular/router';
+import {Routes, ROUTER_PROVIDERS, ROUTER_DIRECTIVES } from '@angular/router';
 
 import {ContactUsComponent} from './+contact-us';
 import {HomeComponent} from './+home';

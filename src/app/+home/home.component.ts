@@ -18,13 +18,12 @@ declare var WOW:any;
 export class HomeComponent implements OnInit {
 
   constructor() {
+
   }
 
   ngOnInit() {
-
     jQuery('.main-slider').addClass('animate-in');
     jQuery('.preloader').remove();
-    //End Preloader
 
     new WOW().init();
   }
