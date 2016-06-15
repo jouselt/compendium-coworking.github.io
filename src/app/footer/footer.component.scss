@@ -34,6 +34,7 @@ h2 {
 .testimonial .media {
   margin-top: 0;
   margin-bottom: 25px;
+  background-color: rgba(240, 248, 255, 0.75);
 }
 
 .testimonial .media > .pull-left {
@@ -134,11 +135,16 @@ h2 {
   margin-top: 70px;
   color: #fff;
   font-size: 16px;
-  padding-bottom: 15px;
+  background-color: rgba(90, 90, 90, 0.75);
 }
 
 .copyright-text a {
-  color: #3e848a
+  color: #4fcccd;
+  font-weight: 400;
+}
+
+.copyright-text a:hover {
+  color: #ea9000;
 }
 
 .copyright-text p {

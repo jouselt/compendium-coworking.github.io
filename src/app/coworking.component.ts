@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {Routes, ROUTER_DIRECTIVES } from '@angular/router';
+import {Routes, ROUTER_DIRECTIVES , ROUTER_PROVIDERS} from '@angular/router';
 import { HTTP_PROVIDERS } from '@angular/http';
 
 import {ContactUsComponent} from './+contact-us';
