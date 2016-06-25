@@ -1,12 +1,10 @@
 import {bootstrap} from '@angular/platform-browser-dynamic';
-import {enableProdMode, provide} from '@angular/core';
-import {CoworkingAppComponent, environment} from './app/';
-import {APP_BASE_HREF, LocationStrategy, HashLocationStrategy} from '@angular/common';
-import {ROUTER_PROVIDERS} from "@angular/router";
-
+import {enableProdMode} from '@angular/core';
+import {AppComponent, APP_ROUTER_PROVIDERS, environment} from './app';
+import {LocationStrategy, HashLocationStrategy} from '@angular/common';
 
 if (environment.production) {
-  enableProdMode();
+    enableProdMode();
 }
 
 /**
@@ -16,9 +14,10 @@ if (environment.production) {
  * esta configuracion no se hereda a los demas componentes. Y en este caso queremos
  * que eso suceda.
  */
-bootstrap(CoworkingAppComponent, [
-  ROUTER_PROVIDERS,
-  provide(APP_BASE_HREF, {useValue: "/"}),
-  provide(LocationStrategy, {useClass: HashLocationStrategy})
-]);
+bootstrap(AppComponent, [
+    APP_ROUTER_PROVIDERS,
+    {provide: LocationStrategy, useClass: HashLocationStrategy}
+])
+    .catch(err => console.error(err));
+
 
