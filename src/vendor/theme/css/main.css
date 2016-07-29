@@ -1881,22 +1881,23 @@ span.stButton_gradient,
   margin-bottom: 0;
   padding: 10px 0;
   text-transform: capitalize;
+  font-weight: 600;
 }
 
 .single-price.price-one .plan-name {
-  background-color: #0e76bc;
+  background-color: #4bb6e6;
 }
 
 .single-price.price-two .plan-name {
-  background-color: #ac2429;
+  background-color: #c04347;
 }
 
 .single-price.price-three .plan-name {
-  background-color: #ed8d1b;
+  background-color: #0e76bc;
 }
 
 .single-price.price-four .plan-name {
-  background-color: #6c825f;
+  background-color: #ac2429;
 }
 
 
@@ -1943,7 +1944,7 @@ span.stButton_gradient,
 }
 
 .price-one .plan-price:after {
-  border-color: #0d6fb1 transparent transparent;
+  border-color: #0e76bc transparent transparent;
 }
 
 .price-two .plan-price:after {
@@ -1951,11 +1952,11 @@ span.stButton_gradient,
 }
 
 .price-three .plan-price:after {
-  border-color: #e78817 transparent transparent;
+  border-color: #4bb6e6 transparent transparent;
 }
 
 .price-four .plan-price:after {
-  border-color: #5f7452 transparent transparent;
+  border-color: #c04347 transparent transparent;
 }
 
 .single-price ul li,
@@ -1985,7 +1986,7 @@ span.stButton_gradient,
 }
 
 .price-one .btn-buynow  {
-  background-color: #0d6fb1;
+  background-color: #0e76bc;
 }
 
 .price-two .btn-buynow  {
@@ -1993,27 +1994,27 @@ span.stButton_gradient,
 }
 
 .price-three .btn-buynow  {
-  background-color: #e78817;
+  background-color: #4bb6e6;
 }
 
 .price-four .btn-buynow  {
-  background-color: #5f7452;
+  background-color: #c04347;
 }
 
 .price-one .btn-buynow:hover  {
-  background-color: #0a5a90;
+  background-color: #4bb6e6;
 }
 
 .price-two .btn-buynow:hover  {
-  background-color: #821b1e;
+  background-color: #c04347;
 }
 
 .price-three .btn-buynow:hover  {
-  background-color: #c57413;
+  background-color: #0e76bc;
 }
 
 .price-four .btn-buynow:hover  {
-  background-color: #48583e;
+  background-color: #ac2429;
 }
 
 
