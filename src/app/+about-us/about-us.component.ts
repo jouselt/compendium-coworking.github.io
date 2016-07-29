@@ -1,8 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {WhoAreWeComponent} from './+who-are-we';
-import {TestimoniesComponent} from './+testimonies';
-import {Routes, ROUTER_DIRECTIVES} from '@angular/router';
-import {BenefitsComponent} from './+benefits';
+import { ROUTER_DIRECTIVES} from '@angular/router';
 
 @Component({
   moduleId: module.id,
@@ -11,12 +8,6 @@ import {BenefitsComponent} from './+benefits';
   styleUrls: ['about-us.component.css'],
   directives: [ROUTER_DIRECTIVES]
 })
-
-@Routes([
-  {path: '/quienes-somos', component: WhoAreWeComponent},
-  {path: '/testimonios', component: TestimoniesComponent},
-  {path: '/beneficios', component: BenefitsComponent}
-])
 
 export class AboutUsComponent implements OnInit {
 
